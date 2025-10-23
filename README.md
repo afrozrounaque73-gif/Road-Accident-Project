@@ -1,6 +1,6 @@
 This project analyzes road accident data to identify major causes, trends, and patterns related to accidents. The goal is to gain insights that can help reduce accidents and improve road safety through data analysis and visualization.
 
-📂 Dataset
+**Dataset**
 
 The dataset contains information about road accidents such as:
 
@@ -16,7 +16,7 @@ Time and location
 
 The data is cleaned, preprocessed, and analyzed using Python.
 
-🧠 Objectives
+**Objectives**
 
 Analyze trends in road accidents across time and locations.
 
@@ -26,7 +26,7 @@ Visualize accident hotspots and high-risk conditions.
 
 Derive insights to recommend safety improvements.
 
-🛠️ Tools & Libraries Used
+**Tools & Libraries Used**
 
 Python
 
@@ -38,7 +38,7 @@ NumPy – for numerical operations
 
 Jupyter Notebook – for development and presentation
 
-📊 Key Insights
+**Key Insights**
 
 Accidents are most frequent during weekends and late-night hours.
 
